@@ -36,4 +36,6 @@ Never trust random links found on open forums or chat groups. Scammers target ne
 *For those seeking a trusted darknet platform, We The North’s user-centric approach, up-to-date security, and transparency make the http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion link the most reliable option out there.*
 
 
-Update:  18 September 2025
+
+
+Update:  01.10.2025 Updated API documentation references
